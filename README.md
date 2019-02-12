@@ -3,6 +3,12 @@ DHCPig
 
 Tags#: DHCP, IPv4, IPv6, exhaustion, pentest, fuzzing, security, scapy
 
+
+INSTALL
+-------
+
+sudo pip2 install -r requirements.txt
+
 SUMMARY
 -------
 
