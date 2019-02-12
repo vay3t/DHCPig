@@ -3,11 +3,15 @@ DHCPig
 
 Tags#: DHCP, IPv4, IPv6, exhaustion, pentest, fuzzing, security, scapy
 
+Mod
+------
+
+Support scapy 2.4.0+ [Mod by Vay3t]
 
 INSTALL
 -------
 
-sudo pip2 install -r requirements.txt
+	sudo pip2 install -r requirements.txt
 
 SUMMARY
 -------
